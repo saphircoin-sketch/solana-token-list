@@ -1,0 +1,16 @@
+{
+  "chainId": 101,
+  "address": "itqEAMbeuaVhyofjMRcJeC7EYospcPzE4EFdLVezMgL",
+  "symbol": "SAPHIR",
+  "name": "SaphirCoin",
+  "decimals": 6,
+  "logoURI": "https://arweave.net/6EGfkd-fp2X6_wpjopdc0Zsxo3XiQU5caZFDOsjQOc8",
+  "tags": ["utility", "community"],
+  "extensions": {
+    "website": "https://saphircoin.com",
+    "description": "SaphirCoin (SAPHIR) est un token utilitaire déployé sur la blockchain Solana, conçu pour alimenter un écosystème innovant centré sur la rapidité, la transparence et l’accessibilité.",
+    "twitter": "https://x.com/Coinsaphir",
+    "telegram": "https://t.me/saphircoin",
+    "whatsapp": "https://whatsapp.com/channel/0029Vb6eRYC3mFXx0QaDeF1r"
+  }
+}
