@@ -4,7 +4,7 @@
   "symbol": "SAPHIR",
   "name": "SaphirCoin",
   "decimals": 6,
-  "logoURI": "https://arweave.net/6EGfkd-fp2X6_wpjopdc0Zsxo3XiQU5caZFDOsjQOc8",
+  "logoURI": "https://raw.githubusercontent.com/saphircoin-sketch/solana-token-list/main/assets/mainnet/itqEAMbeuaVhyofjMRcJeC7EYospcPzE4EFdLVezMgL/logo.png",
   "tags": ["utility", "community"],
   "extensions": {
     "website": "https://saphircoin.com",
